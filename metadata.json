@@ -1,0 +1,8 @@
+{
+  "name": "JFS Properties",
+  "description": "Sistema Integrado de Gestão Imobiliária, Incidentes e Manutenção",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
